@@ -27,6 +27,7 @@ public class Takescreenshot {
 
         FileUtils.copyFile(srcFile,new File("C:\\Users\\sansp\\IdeaProjects\\firstsamp\\src\\test\\java\\newscreen.jpeg"));
 
+        System.out.println("This is the change" );
     }
 
 }
